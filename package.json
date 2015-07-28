@@ -1,11 +1,11 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "xcode",
+  "name": "ionic-xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "main":"index.js",
   "repository": {
-    "url": "https://github.com/alunny/node-xcode.git"
+    "url": "https://github.com/driftyco/node-xcode.git"
   },
   "engines": {
     "node": ">=0.6.7"
